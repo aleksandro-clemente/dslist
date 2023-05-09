@@ -1,4 +1,4 @@
-package br.com.aleksandro.vendas.model;
+package com.devsuperior.dslist.model;
 
 import java.util.Objects;
 
