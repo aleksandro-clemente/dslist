@@ -30,4 +30,6 @@ public class GameController {
 		GameDTO dto = service.findById(id);
 		return ResponseEntity.ok().body(dto);
 	}
+	
+	
 }
